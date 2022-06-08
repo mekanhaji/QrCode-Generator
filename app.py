@@ -1,7 +1,7 @@
 from aiogram import Bot, Dispatcher, executor, types
 import pyqrcode
 
-API_TOKEN = '5447380579:AAEKsA-ENVQqXcmEti-Daxs2cGHmsewYNWE'
+API_TOKEN = '#####api-token#####'
 
 # Initialize bot and dispatcher
 bot = Bot(token = API_TOKEN)
