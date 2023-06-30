@@ -18,7 +18,7 @@ This project is a Telegram bot developed using Python and the aiogram library. T
 
 To use the Telegram QR Code Generator Bot, follow these steps:
 
-1. Find and start the bot by searching for it on Telegram or using the bot's username [@text_to_QR_Generator](t.me/text_to_QR_Generator).
+1. Find and start the bot by searching for it on Telegram or using the bot's username [@text_to_QR_Generator](https://t.me/text_to_QR_Generator_bot).
 2. Enter the desired text prompt or command to generate a QR code.
 3. The bot will generate a QR code image based on the provided input.
 4. Download or save the QR code image shared by the bot.
